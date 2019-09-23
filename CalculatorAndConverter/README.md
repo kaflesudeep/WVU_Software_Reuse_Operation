@@ -1,13 +1,13 @@
 # Programming Assignment 1
-## CAlculation Operation and Number Comversion. 
+## Calculation Operation and Number Conversion. 
 
-This Application is able to perform basic arithetic operation and conversion. 
+This Application is able to perform basic arithmetic operation and conversion. 
 There is two way to use this program, first is to download the jar file in your application and add this jar to your application and use the in build methods or comp the source code and utilize the methods written. 
 
 ## Conversion: 
 This program consist of "Converter" enum class that has enum methods. These enum methods can be utilize to make conversion between different number format. 
 
-There are 5 types of enum varaible, BINARY, INTEGER, DOUBLE, OCTAL AND HEXADECIMAL. 
+There are 5 types of enum variable, BINARY, INTEGER, DOUBLE, OCTAL AND HEXADECIMAL. 
 
 	1. Know the data type of the number we want to pass. 
 	2. call the enum name representing your data type. For example if we are passing Binary we do Converter.BINARY...		
@@ -19,7 +19,7 @@ There are 5 types of enum varaible, BINARY, INTEGER, DOUBLE, OCTAL AND HEXADECIM
 	
 	
 ## Basic Arithmetic  Functions
-This application supports following arithematic functions for BINARY, INTEGER, DOUBLE, OCTAL AND HEXADECIMAL: 
+This application supports following arithmetic functions for BINARY, INTEGER, DOUBLE, OCTAL AND HEXADECIMAL: 
 
 - Addition
 
@@ -37,7 +37,7 @@ This application supports following arithematic functions for BINARY, INTEGER, D
 Steps: 
 	1. use the class Operation to perform this task. 
 	2. Create the object of Operation class. 
-	3. There are are 6 methods that will perform the basic arethematic task. 
+	3. There are are 6 methods that will perform the basic arithmetic task. 
 	4. The return data will be in the format of the first number and will be a string value. 
 	
 	For Example: 
