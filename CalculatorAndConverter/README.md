@@ -4,7 +4,7 @@
 This Application is able to perform basic arithmetic operation and conversion. 
 There is two way to use this program, first is to download the jar file in your application and add this jar to your application and use the in build methods or comp the source code and utilize the methods written. 
 
-## Conversion: 
+## 1. Conversion: 
 This program consist of "Converter" enum class that has enum methods. These enum methods can be utilize to make conversion between different number format. 
 
 There are 5 types of enum variable, BINARY, INTEGER, DOUBLE, OCTAL AND HEXADECIMAL. 
@@ -18,7 +18,7 @@ There are 5 types of enum variable, BINARY, INTEGER, DOUBLE, OCTAL AND HEXADECIM
 	6. The result will be in String format and parse it as needed. 
 	
 	
-## Basic Arithmetic  Functions
+## 2. Basic Arithmetic  Functions
 This application supports following arithmetic functions for BINARY, INTEGER, DOUBLE, OCTAL AND HEXADECIMAL: 
 
 - Addition
@@ -41,7 +41,7 @@ Steps:
 	4. The return data will be in the format of the first number and will be a string value. 
 	
 	For Example: 
-	performAddition(11, Converter.BINARY, 2.0, Converter.DOUBLE)
+	##performAddition(11, Converter.BINARY, 2.0, Converter.DOUBLE)
 	
 	1. This methods takes 4 parameter
 		a. First argument: the first number
