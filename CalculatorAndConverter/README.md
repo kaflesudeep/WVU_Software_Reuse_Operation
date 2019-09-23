@@ -2,7 +2,12 @@
 ## Calculation Operation and Number Conversion. 
 
 This Application is able to perform basic arithmetic operation and conversion. 
-There is two way to use this program, first is to download the jar file in your application and add this jar to your application and use the in build methods or comp the source code and utilize the methods written. 
+There is two way to use this program, first is to download the jar file in your application and add this jar to your application and use the in build methods or copy the source code and utilize the methods written. 
+
+CommonMethods Package has all the methods needed. 
+CalculatorandConversionTest has all the test cases using the Junit
+In the folder CalculateJae there is calculatorAndConverterJar jar file that can be downloaded for reuse purpose. 
+
 
 ## 1. Conversion: 
 This program consist of "Converter" enum class that has enum methods. These enum methods can be utilize to make conversion between different number format. 
