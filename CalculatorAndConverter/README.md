@@ -5,7 +5,9 @@ This Application is able to perform basic arithmetic operation and conversion.
 There is two way to use this program, first is to download the jar file in your application and add this jar to your application and use the in build methods or copy the source code and utilize the methods written. 
 
 -CommonMethods Package has all the methods needed. 
+
 -CalculatorandConversionTest has all the test cases using the Junit
+
 -In the folder CalculateJae there is calculatorAndConverterJar jar file that can be downloaded for reuse purpose. 
 
 
