@@ -52,10 +52,10 @@ This application supports following arithmetic functions for BINARY, INTEGER, DO
 	##performAddition(11, Converter.BINARY, 2.0, Converter.DOUBLE)
 	
 	1. This methods takes 4 parameter
-		a. First argument: the first number
-		b. Second argument: the format of the first number as enum variable.
-		c. Third argument: parameter: the second number
-		d. Fourth argument: the format of the second number as enum variable.  
+		1. First argument: the first number
+		2. Second argument: the format of the first number as enum variable.
+		3. Third argument: parameter: the second number
+		4. Fourth argument: the format of the second number as enum variable.  
 		
 	2. All the methods will return data in the Second argument format as string. 
 	
