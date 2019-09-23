@@ -86,7 +86,7 @@ public class Operation {
 			 System.out.println("Error Occurred: ");
 			 System.out.println(ex.getMessage());
 		 }finally{
-			 return "Error"; 
+			 return "Infinite"; 
 		 }
 		
 	 }
