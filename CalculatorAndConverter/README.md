@@ -9,6 +9,7 @@ This program consist of "Converter" enum class that has enum methods. These enum
 
 There are 5 types of enum variable, BINARY, INTEGER, DOUBLE, OCTAL AND HEXADECIMAL. 
 
+	Steps: 
 	1. Know the data type of the number we want to pass. 
 	2. call the enum name representing your data type. For example if we are passing Binary we do Converter.BINARY...		
 	3. call the convert to method of that enum
@@ -34,7 +35,7 @@ This application supports following arithmetic functions for BINARY, INTEGER, DO
 - Exponent
 
 
-Steps: 
+	Steps: 
 	1. use the class Operation to perform this task. 
 	2. Create the object of Operation class. 
 	3. There are are 6 methods that will perform the basic arithmetic task. 
@@ -49,5 +50,5 @@ Steps:
 		c. Third argument: parameter: the second number
 		d. Fourth argument: the format of the second number as enum variable.  
 		
-	
+	2. All the methods will return data in the Second argument format as string. 
 	
