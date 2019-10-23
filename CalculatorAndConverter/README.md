@@ -57,7 +57,7 @@ This application supports following arithmetic functions for BINARY, INTEGER, DO
 		3. Third argument: parameter: the second number
 		4. Fourth argument: the format of the second number as enum variable.  
 		
-	2. All the methods will return data in the Second argument format as string. 
+	2. All the methods will return data in the first number passed format as string. For Example in the abve example the number passes wil be in binary like 101.
 
 ## Test Cases: 
 1. Go to WVU_Software_Reuse_Operation/CalculatorAndConverter/src/CalculatorAndConverterTest/. to see the test cases created.
